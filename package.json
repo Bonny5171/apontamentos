@@ -1,0 +1,28 @@
+{
+  "name": "apontamentos",
+  "version": "1.0.0",
+  "description": "sera responsavel pelo apontamento de horas de pessoas que não gostam de ficar apontando as horas todos os dias, fazendo maus para o seu pisicologico e afins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonny5171/apontamentos.git"
+  },
+  "keywords": [
+    "apontamento",
+    "banco",
+    "de",
+    "horas",
+    "hora",
+    "extra"
+  ],
+  "author": "ibonny, herzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonny5171/apontamentos/issues"
+  },
+  "homepage": "https://github.com/Bonny5171/apontamentos#readme"
+}
